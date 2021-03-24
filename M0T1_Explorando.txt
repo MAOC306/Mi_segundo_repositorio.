@@ -1,0 +1,4 @@
+El repositorio de git muestra repositorios recomendados de acuerdo a los repositorios que se visitaron previamente. 
+Al igual que en los repositorios creados para esta actividad, los repositorios que encontré muestran todos los archivos del proyecto así como una breve explicación del funcionamiento y propósito del código en el archivo ReadMe.md. De igual manera, se especifican el momento en que los archivos del repositorio fueron modificados, los contribuyentes del trabajo y los lenguajes de programación en los que están construidos los códigos. 
+
+Existe la posibilidad de darle seguimiento a los movimientos del proyecto mediante la pestaña Watch y también se puede guardar el repositorio como favorito para tener acceso más rápido a él mediante la pestaña Star. 
